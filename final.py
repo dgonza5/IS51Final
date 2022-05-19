@@ -14,3 +14,16 @@ Fuction-1 will kickstart the application, it will extract the information from t
 file and then calculate the average grade and then close the file. 
 Function-2 will calculate the percentage of grades that are above the average grade. 
 """
+
+"""
+Main():
+    set Final.txt = input()
+    num_grades = list 
+    average = sum(grades) len(grades)
+    calculate above average percent
+
+above_average():
+    open in Final.txt
+    read list and pull info
+    close
+"""
